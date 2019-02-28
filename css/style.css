@@ -1605,3 +1605,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+@media (max-width:700px)
+{
+  carousel-content h2
+  {
+     width: 200px;
+  }
+
+
+}
